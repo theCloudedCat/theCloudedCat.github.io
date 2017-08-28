@@ -2,8 +2,13 @@
     "docs": [
         {
             "location": "/",
-            "text": "",
+            "text": "Introduction\n\n\nWelcome to the \nCloudedCat\n tutorials & resources pages!",
             "title": "Home"
+        },
+        {
+            "location": "/#introduction",
+            "text": "Welcome to the  CloudedCat  tutorials & resources pages!",
+            "title": "Introduction"
         },
         {
             "location": "/intro/",
